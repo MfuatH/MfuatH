@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfuath&label=Profile%20views&color=0e75b6&style=flat" alt="mfuath" /> </p>
 
-- Berikut Project yang telah saya selesaikan : [Website Pengelolaan Gudang](gg.com)
+- Berikut Project yang telah saya selesaikan :
+  
+- - [Website Pengelolaan Gudang](gg.com)
 
 - - [Website Portofolio](gg.com)
 
