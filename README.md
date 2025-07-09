@@ -16,7 +16,7 @@
 <!-- About Me -->
 ## 📖 About Me
 <p>💻 I'm a student and web developer passionate about building digital solutions. I specialize in both front-end (HTML, CSS, JavaScript) and back-end (PHP, Laravel) development. I love learning new technologies and constantly improving my skills in programming. Feel free to explore my repositories to see various projects I've created. Let's collaborate and learn together!</p>
-- [🎨 Portfolio Website](https://mfuath.github.io/Portofolio/) Showcasing my work and skills
+
 
 <br/>
 
@@ -28,7 +28,9 @@
 </div>
 
 <br/>
-
+## My Portfolio Website
+(https://mfuath.github.io/Portofolio/) Showcasing my work and skills
+<br/>
 <!-- Projects Section -->
 ## 🚀 Featured Projects
 - [📦 Warehouse Management System](gg.com) - A comprehensive inventory management solution
