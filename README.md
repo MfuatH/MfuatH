@@ -4,7 +4,7 @@
 
 
 <!-- Profile Header -->
-<h1 align="center">👋 Hello, I'm Mohamat Fuat Hasannnnnn</h1>
+<h1 align="center">👋 Hello, I'm Mohamat Fuat Hasan</h1>
 <h3 align="center">🚀 Full Stack Developer | Tech Enthusiast | Continuous Learner</h3>
 
 <div align="center">
