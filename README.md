@@ -64,3 +64,17 @@
 2023 - Began university studies in Informatics Management
 2024 - Deepened UI/UX and game programming skills
 2025 - Mastering React.js and Laravel ecosystems
+
+<h2 align="center">Play Game With Me</h2>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MfuatH/MfuatH/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MfuatH/MfuatH/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MfuatH/MfuatH/output/pacman-contribution-graph.svg">
+</picture>
+
+###
