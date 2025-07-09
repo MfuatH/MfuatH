@@ -55,16 +55,6 @@
 
 <br/>
 
-<!-- Timeline -->
-## 🕰️ Development Journey
-```markdown
-2020 - Started learning HTML, CSS, and programming fundamentals
-2021 - Completed Dicoding Web Development courses
-2022 - First freelance project (business website)
-2023 - Began university studies in Informatics Management
-2024 - Deepened UI/UX and game programming skills
-2025 - Mastering React.js and Laravel ecosystems
-
 <h2 align="center">Play Game With Me</h2>
 
 ###
@@ -78,3 +68,16 @@
 </picture>
 
 ###
+<br/>
+
+<!-- Timeline -->
+## 🕰️ Development Journey
+```markdown
+2020 - Started learning HTML, CSS, and programming fundamentals
+2021 - Completed Dicoding Web Development courses
+2022 - First freelance project (business website)
+2023 - Began university studies in Informatics Management
+2024 - Deepened UI/UX and game programming skills
+2025 - Mastering React.js and Laravel ecosystems
+
+
